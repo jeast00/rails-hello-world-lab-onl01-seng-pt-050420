@@ -1,4 +1,4 @@
-class HelloWorldController < ApplicationController
+class StaticController < ApplicationController
   
   
 end
